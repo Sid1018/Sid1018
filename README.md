@@ -6,15 +6,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sid1018" alt="sid1018" /></a> </p>
 
 
-- 🌱 I’m currently learning **AI, ML and DS**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Sid1018](https://github.com/Sid1018)
 
 - 📝 I regularly write articles on [www.linkedin.com/in/siddharth-shukla-eng18](www.linkedin.com/in/siddharth-shukla-eng18)
 
 - 💬 Ask me about **Data Science and Business Intelligence**
 
-- 📫 How to reach me **rdsid2003@gmail.com**
+- 📫 How to reach me **ssiddhartha2003@gmail.com**
 
 - ⚡ Fun fact **I love playing with Data.**
 
