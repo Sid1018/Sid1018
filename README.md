@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sid1018](https://github.com/Sid1018)
 
-- 📝 I regularly write articles on [www.linkedin.com/in/siddharth-shukla-eng18](www.linkedin.com/in/siddharth-shukla-eng18)
-
 - 💬 Ask me about **Data Science and Business Intelligence**
 
 - 📫 How to reach me **ssiddhartha2003@gmail.com**
